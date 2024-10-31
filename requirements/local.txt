@@ -1,0 +1,18 @@
+-r base.txt
+
+black
+coverage
+djlint
+factory-boy
+flake8
+flake8-isort
+flower
+mypy
+pre-commit
+psycopg[binary]
+pylint-celery
+pytest
+pytest-sugar
+sphinx
+sphinx-autobuild
+werkzeug[watchdog]

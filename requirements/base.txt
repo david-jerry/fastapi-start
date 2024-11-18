@@ -2,7 +2,7 @@ pyjwt[crypto]
 itsdangerous
 mjml
 aiosmtplib
-aiohttp==3.10.10
+aiohttp==3.10.11
 alembic
 amqp
 annotated-types
